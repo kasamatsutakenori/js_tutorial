@@ -1,4 +1,5 @@
 $(function(){
+    //テストテスト
     $('.js-calculator').each(function(){
 		var total = 0;
 		var $displayNum = $('.js-calculator_display_num');
